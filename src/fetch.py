@@ -1,3 +1,5 @@
+#!/usr/bin/env python  # Use the system's Python 3 interpreter
+
 import requests  # Import the requests library to make HTTP requests
 
 # Function to fetch todos from the API and print the first 10 todos
