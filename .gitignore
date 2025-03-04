@@ -181,3 +181,6 @@ vscode/
 
 # PyPI configuration file
 .pypirc
+
+# Poetry
+poetry.lock
